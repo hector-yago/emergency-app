@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794659600177,
+  "index": "/emergency-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/emergency-app/chunk-H432QCAY.js",
+        "/emergency-app/chunk-HSEK3I7D.js",
+        "/emergency-app/chunk-KL7PZZPY.js",
+        "/emergency-app/chunk-NGAHVEUF.js",
+        "/emergency-app/chunk-P4G7RVQ5.js",
+        "/emergency-app/favicon.ico",
+        "/emergency-app/index.html",
+        "/emergency-app/main-P3EZSFCL.js",
+        "/emergency-app/manifest.webmanifest",
+        "/emergency-app/styles-R2J5TZWX.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/emergency-app/icons/icon-128x128.png",
+        "/emergency-app/icons/icon-144x144.png",
+        "/emergency-app/icons/icon-152x152.png",
+        "/emergency-app/icons/icon-192x192.png",
+        "/emergency-app/icons/icon-384x384.png",
+        "/emergency-app/icons/icon-512x512.png",
+        "/emergency-app/icons/icon-72x72.png",
+        "/emergency-app/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/emergency-app/chunk-H432QCAY.js": "d22bbafc8101188f11a03ba0654cc925e78fad3a",
+    "/emergency-app/chunk-HSEK3I7D.js": "107b3b5fe59880b8be63ead30a4412d8a35996ed",
+    "/emergency-app/chunk-KL7PZZPY.js": "1f4067f5124f2116714de1137ce3f660d9946aab",
+    "/emergency-app/chunk-NGAHVEUF.js": "62fc54d801fc685a3695fa74b8093b3048aa53e3",
+    "/emergency-app/chunk-P4G7RVQ5.js": "c95493091dd0ce468b4fb953d6a5041b8594f1d8",
+    "/emergency-app/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/emergency-app/icons/icon-128x128.png": "92b60b8514b5fb984ea384cf0ba0f39495f477e8",
+    "/emergency-app/icons/icon-144x144.png": "6b41d431a87f6c5b227fd9ae6d8db4247eafc476",
+    "/emergency-app/icons/icon-152x152.png": "96208c93d8ec87f8eebfa974fe8f2425fac1141b",
+    "/emergency-app/icons/icon-192x192.png": "38832f86f940636ea7f01e50863fd6773160c304",
+    "/emergency-app/icons/icon-384x384.png": "19c4d272564d78c2bf3d6094a95cc881bc49236d",
+    "/emergency-app/icons/icon-512x512.png": "f0c85d4fa4040c20f2cd942132caa8b0241e3994",
+    "/emergency-app/icons/icon-72x72.png": "aaea86e3af10c773f2b6927074c4cc3da8f10260",
+    "/emergency-app/icons/icon-96x96.png": "ee98d2be970d42b024d94d0c7aeb9761a0eb27df",
+    "/emergency-app/index.html": "cf5abc05bba382890fd7c60add8d75d3a3c64594",
+    "/emergency-app/main-P3EZSFCL.js": "41568cd8b8de9080353bf6457dc75d5a34aa23c9",
+    "/emergency-app/manifest.webmanifest": "3843d783bfdb9f772c47ae14f1735d4d89e53828",
+    "/emergency-app/styles-R2J5TZWX.css": "ae8932beb381056c94d7e9f3df394f9c5724ea71"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
